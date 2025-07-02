@@ -71,7 +71,7 @@ function startSendingLoop(message) {
         }
 
         currentIndex++;
-    }, 10000); // send every 10 seconds
+    }, 180000); // send every 10 seconds
 }
 
 // Serve HTML UI
